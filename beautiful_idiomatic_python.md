@@ -2,6 +2,9 @@
 
 Notes from Raymond Hettinger's talk at pycon US 2013 [video](http://www.youtube.com/watch?feature=player_embedded&v=OSGv2VnC0go), [slides](https://speakerdeck.com/pyconslides/transforming-code-into-beautiful-idiomatic-python-by-raymond-hettinger-1).
 
+taken from https://gist.github.com/rsiemens/a1ddcad5703aed3d8a42e1372faaf4be
+rsiemens/beautiful_idiomatic_python.md
+
 The code examples and direct quotes are all from Raymond's talk. I've reproduced them here for my own edification and the hopes that others will find them as handy as I have!
 
 ## Looping over a range of numbers
